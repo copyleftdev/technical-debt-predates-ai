@@ -101,8 +101,8 @@ All the code and data for this analysis is in this repo:
 
 ```bash
 # Clone and setup
-git clone <this-repo>
-cd ali_chin_check
+git clone https://github.com/copyleftdev/technical-debt-predates-ai.git
+cd technical-debt-predates-ai
 python -m venv venv
 source venv/bin/activate
 pip install requests python-dotenv
