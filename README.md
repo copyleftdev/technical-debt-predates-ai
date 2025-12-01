@@ -2,6 +2,8 @@
 
 **A data-driven look at "The Vibe Tax" — and why technical debt might not be AI's fault.**
 
+> **TL;DR:** I analyzed 300 GitHub repos and 18,000+ commit messages. Pre-AI code has *more* debt signals, *more* frustrated developers, and *fewer* refactoring efforts than post-AI code. Technical debt isn't new. We've just found a new scapegoat.
+
 ---
 
 There's a popular narrative going around about the "Vibe Tax" — the idea that AI-generated code is flooding the market with unvalidated garbage and driving up technical debt. It's a compelling argument. Easy to nod along to.
@@ -120,8 +122,11 @@ pip install requests python-dotenv
 # Optional: add your GitHub token for higher rate limits
 echo "export GITHUB_TOKEN=your_token_here" > .env
 
-# Run the analysis
+# Run the issue analysis
 python github_debt_analysis.py --use-cache
+
+# Run the NLP commit analysis
+python commit_nlp_analysis.py --max-repos 40
 
 # Or fetch fresh data with extended metrics
 python github_debt_analysis.py --extended --max-repos 300
@@ -134,3 +139,9 @@ That's how this is supposed to work.
 ---
 
 *If you enjoyed this post, consider not installing `is-odd` the next time you need to check if a number is odd. Your future self will thank you.*
+
+---
+
+**Data:** 300 repositories, 18,581 commit messages, 5 programming languages  
+**Tools:** Python, GitHub API, regex-based NLP  
+**Repo:** [github.com/copyleftdev/technical-debt-predates-ai](https://github.com/copyleftdev/technical-debt-predates-ai)
