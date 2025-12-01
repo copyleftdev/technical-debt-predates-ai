@@ -1,16 +1,14 @@
 # Actually, We've Always Been Terrible at This
 
-**A data-driven response to "The Vibe Tax" — or, why blaming AI for technical debt is like blaming GPS for traffic.**
+**A data-driven look at "The Vibe Tax" — and why technical debt might not be AI's fault.**
 
 ---
 
-I recently read Ali Karbasi's article about the "Vibe Tax" — the idea that AI-generated code is flooding the market with unvalidated garbage and driving up technical debt. It's a well-written piece. It's got that righteous energy. It makes you want to nod along and mutter "kids these days" into your artisanal coffee.
+There's a popular narrative going around about the "Vibe Tax" — the idea that AI-generated code is flooding the market with unvalidated garbage and driving up technical debt. It's a compelling argument. Easy to nod along to.
 
-There's just one problem: the premise is wrong.
+But I started wondering: is this actually new? Or have we always been drowning in technical debt, long before ChatGPT was a twinkle in anyone's eye?
 
-Not wrong like "you made a typo" wrong. Wrong like "we've been drowning in technical debt since before ChatGPT was a twinkle in Sam Altman's eye" wrong.
-
-So I did what any reasonable person would do. I wrote a Python script, hit the GitHub API, and pulled data on 300 popular repositories. Because nothing says "I disagree with your blog post" like spending a Saturday afternoon writing code to prove it.
+So I did what any reasonable person would do. I wrote a Python script, hit the GitHub API, and pulled data on 300 popular repositories. Because nothing settles an argument like a Saturday afternoon of data analysis.
 
 ## The Numbers Don't Lie (But They Do Hurt)
 
@@ -25,7 +23,7 @@ Here's what I found when I compared repos created **before** January 2022 (pre-A
 
 Read that first data row again. **Pre-AI repositories have a higher issue-to-star ratio than post-AI ones.**
 
-The repos built by Serious Engineers™ before the AI apocalypse have *more* technical debt per unit of popularity than the supposed "vibe coded" garbage.
+The repos built by experienced engineers before AI tools went mainstream actually have *more* technical debt per unit of popularity than newer ones.
 
 ## The Hall of Shame
 
@@ -59,7 +57,7 @@ The search criteria were identical. Same minimum star count. Same languages. Sam
 
 ## The Real Problem
 
-Ali's article describes real symptoms. I've seen the Frankenstein codebases. I've audited the 50MB todo apps. I've watched juniors install a library to check if a number is odd.
+The "Vibe Tax" article describes real symptoms. I've seen the Frankenstein codebases. I've audited the 50MB todo apps. I've watched juniors install a library to check if a number is odd.
 
 But here's the thing: I saw all of that *before* AI coding tools existed.
 
@@ -77,21 +75,15 @@ If the Python interpreter itself — written by some of the best programmers on 
 
 ## What This Actually Means
 
-I'm not saying AI-generated code is perfect. It's not. It makes mistakes. It lacks context. It needs supervision.
-
-But you know what else makes mistakes, lacks context, and needs supervision? 
-
-Every developer I've ever worked with, including me.
-
-The difference is that AI makes mistakes *faster*. Which, depending on how you look at it, either means we're generating debt at unprecedented rates, or we're iterating at unprecedented rates. The data suggests it might actually be the latter.
-
-## The Bottom Line
-
-Ali argues that we need more senior engineers to supervise AI-generated code. I agree! But not because AI is uniquely dangerous.
+I agree that we need more senior engineers to supervise AI-generated code. But not because AI is uniquely dangerous.
 
 We've always needed senior engineers to supervise code. We've always had juniors making questionable architectural decisions. We've always had tech debt piling up faster than we can pay it down.
 
 AI didn't create this problem. It just made it more visible. And honestly? Making problems visible is usually the first step to solving them.
+
+## The Bottom Line
+
+We've always needed to address technical debt. We've always needed to mentor juniors. We've always needed to review code. AI didn't create this problem, but it can help us solve it.
 
 ---
 
