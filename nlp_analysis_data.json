@@ -1,0 +1,807 @@
+[
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 41.8,
+    "revert_ratio": 0.2,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 5.0,
+    "avg_message_length": 99.7,
+    "debt_signals": {
+      "todo": 1,
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "fix(curriculum): add assert to prevent empty editor pass in todo list (#64193)",
+      "feat(curriculum): Add interactive examples to try\u2026catch\u2026finally lesson (#63552)",
+      "chore: temporarily block E2E runs on main branch pushes (#63207)"
+    ]
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 8.0,
+    "bug_ratio": 5.0,
+    "revert_ratio": 0.8,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 1.2,
+    "avg_message_length": 46.0,
+    "debt_signals": {
+      "broken": 39,
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "Remove MFaaS, it's broken",
+      "Remove Kawal Corona, it's broken",
+      "Remove Affirmations, it's broken",
+      "Remove WeatherReactApi, it's broken",
+      "Remove Utelly, it's broken"
+    ]
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 5.4,
+    "bug_ratio": 38.8,
+    "revert_ratio": 2.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 3.6,
+    "avg_message_length": 257.5,
+    "debt_signals": {
+      "broken": 27
+    },
+    "frustration_samples": [
+      "Add 3 DSA Books under subjects list (#12962)",
+      "Replace broken 'Python \u4e2d\u6587\u5b66\u4e60\u5927\u672c\u8425' link with '\u83dc\u9e1f\u6559\u7a0b Python3 \u6559\u7a0b' (#13005) (#13008)",
+      "Resolve English Subject list  (#12983)",
+      "Fix: removed broken APL book link (404) (#12958)",
+      "Add working APL book links and arrange in alphabetical order (#12905)"
+    ]
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 4.4,
+    "bug_ratio": 31.8,
+    "revert_ratio": 2.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 7.0,
+    "avg_message_length": 107.1,
+    "debt_signals": {
+      "broken": 22
+    },
+    "frustration_samples": [
+      "Fix broken Cyfrin Updraft link in blockchain \"Why it matters\" (#9386)",
+      "Fix broken link to s element in html roadmap (#9363)",
+      "fix: SQL Tuning Broken link (#9331)",
+      "fix: broken link in AI Engg Roadmap (#9327)",
+      "python list comprehensions quiz broken link fix (#9326)"
+    ]
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "era": "pre-ai",
+    "total_commits": 336,
+    "debt_ratio": 4.46,
+    "bug_ratio": 30.36,
+    "revert_ratio": 0.3,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 1.49,
+    "avg_message_length": 44.3,
+    "debt_signals": {
+      "broken": 15
+    },
+    "frustration_samples": [
+      "Fix broken link to \"How to ace a systems design interview\" (#1031) (#1032)",
+      "Fix broken CAP theorem link  #1160 (#1161)",
+      "Fix # 650: Replace broken weighted round robin link (#651)",
+      "Update broken HBase architecture link (#481)",
+      "Fix broken link in CAP theorem section (#348)"
+    ]
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.6,
+    "bug_ratio": 27.2,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 7.2,
+    "avg_message_length": 53.7,
+    "debt_signals": {
+      "broken": 8
+    },
+    "frustration_samples": [
+      "Merge pull request #1531 from MMeffert/patch-1",
+      "Fixed broken link for pymssql",
+      "Fix broken links Fixes #1163",
+      "fix the broken link Fixes #1207",
+      "Merge pull request #1189 from neilsh/patch-1"
+    ]
+  },
+  {
+    "repo": "facebook/react",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 3.4,
+    "bug_ratio": 40.6,
+    "revert_ratio": 0.6,
+    "frustration_ratio": 1.6,
+    "positive_ratio": 8.8,
+    "avg_message_length": 599.7,
+    "debt_signals": {
+      "broken": 5,
+      "temporary": 4,
+      "hack": 1,
+      "todo": 4,
+      "workaround": 3
+    },
+    "frustration_samples": [
+      "[compiler] Exhaustive deps: extra tests, improve diagnostic (#35213)",
+      "[compiler] Remove useState argument constraint. no-derived-computations-in-effects (#35174)",
+      "[Flight] Fix broken byte stream parsing caused by buffer detachment (#35127)",
+      "Rename <Suspense unstable_expectedLoadTime> to <Suspense defer> and implement in SSR (#35022)",
+      "Add fragment handles to children of FragmentInstances  (#34935)"
+    ]
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.0,
+    "bug_ratio": 61.0,
+    "revert_ratio": 1.2,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 13.8,
+    "avg_message_length": 501.2,
+    "debt_signals": {},
+    "frustration_samples": []
+  },
+  {
+    "repo": "vuejs/vue",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 40.8,
+    "revert_ratio": 0.4,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 4.6,
+    "avg_message_length": 67.1,
+    "debt_signals": {
+      "broken": 2
+    },
+    "frustration_samples": [
+      "chore: fix link broken (#13192)",
+      "chore: fix some broken links to v2 docs (#12839)"
+    ]
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 22.0,
+    "revert_ratio": 0.4,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 4.6,
+    "avg_message_length": 73.9,
+    "debt_signals": {
+      "broken": 2
+    },
+    "frustration_samples": [
+      "Fixing the broken link for QuickSort",
+      "optimized for loop & corrected comments (#617)",
+      "Fix broken links for AVL tree README."
+    ]
+  },
+  {
+    "repo": "microsoft/vscode",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.6,
+    "bug_ratio": 28.8,
+    "revert_ratio": 3.8,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 10.0,
+    "avg_message_length": 133.2,
+    "debt_signals": {
+      "todo": 3,
+      "workaround": 2,
+      "broken": 1,
+      "ugly": 1,
+      "dirty": 1
+    },
+    "frustration_samples": [
+      "agent sessions - add todo for setting to decide later on (#279983)",
+      "agent sessions - strip markdown from description (workaround #279938) (#279965)",
+      "Resolve regression where build task did not start in wsl (#279249)",
+      "fix: hardware acceleration broken with versioned layout on windows (#279546)",
+      "fix: memory leak in history service (#279246)"
+    ]
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.2,
+    "bug_ratio": 43.8,
+    "revert_ratio": 0.4,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 9.8,
+    "avg_message_length": 78.1,
+    "debt_signals": {
+      "broken": 4,
+      "temporary": 1,
+      "workaround": 1
+    },
+    "frustration_samples": [
+      "fix(Respond to Chat Node): Replace broken link with a correct one (no-changelog) (#22406)",
+      "fix(editor): Stop proxying posthog events temporarily (no-changelog) (#22442)",
+      "docs: Fix broken link in Google Docs node (#22197)",
+      "test: Fix broken test expectation (no-changelog) (#22193)",
+      "docs: Correct various broken documentation links (#20934)"
+    ]
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.2,
+    "bug_ratio": 9.2,
+    "revert_ratio": 0.4,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 1.6,
+    "avg_message_length": 81.4,
+    "debt_signals": {
+      "broken": 1
+    },
+    "frustration_samples": [
+      "fix: remove broken project link from README.md file (#5625)"
+    ]
+  },
+  {
+    "repo": "huggingface/transformers",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 3.4,
+    "bug_ratio": 72.2,
+    "revert_ratio": 9.0,
+    "frustration_ratio": 2.8,
+    "positive_ratio": 26.4,
+    "avg_message_length": 333.9,
+    "debt_signals": {
+      "broken": 6,
+      "hack": 1,
+      "temporary": 2,
+      "todo": 5,
+      "fixme": 2,
+      "xxx": 1
+    },
+    "frustration_samples": [
+      "Fix broken models due to modeling/weight mapping (#42468)",
+      "[MODEL] Nanochat implementation (#41634)",
+      "Any to any pipeline and auto-mapping (#40884)",
+      "Simplify and standardize processor tests (#41773)",
+      "\ud83d\udcda docs(granite-speech): add comprehensive usage examples (#42125)"
+    ]
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.0,
+    "bug_ratio": 38.0,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 0.8,
+    "avg_message_length": 53.5,
+    "debt_signals": {},
+    "frustration_samples": []
+  },
+  {
+    "repo": "airbnb/javascript",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.0,
+    "bug_ratio": 27.4,
+    "revert_ratio": 0.4,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 4.0,
+    "avg_message_length": 90.6,
+    "debt_signals": {
+      "broken": 3,
+      "todo": 1,
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "[readme] wayback machine, or remove, broken links",
+      "[eslint config] [base] `no-alert`: add TODO comment",
+      "[guide] fix eslint core rule URLs",
+      "[eslint config] [react] disable two buggy rules, temporarily",
+      "Fix broken aria roles link in React style guide README"
+    ]
+  },
+  {
+    "repo": "ytdl-org/youtube-dl",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 4.8,
+    "bug_ratio": 37.6,
+    "revert_ratio": 0.8,
+    "frustration_ratio": 0.4,
+    "positive_ratio": 16.4,
+    "avg_message_length": 117.5,
+    "debt_signals": {
+      "temporary": 6,
+      "workaround": 4,
+      "broken": 6,
+      "hack": 4,
+      "todo": 3,
+      "fixme": 1
+    },
+    "frustration_samples": [
+      "[workflows/ci] Update to windows-2022 runner",
+      "[JSInterp] Temporary fix for #33102",
+      "[YouTube] Temporarily redirect from tce-style player JS",
+      "[YouTube] Always extract using MWEB API client",
+      "[workflows/ci.yml] Temporary workaround for Python 3.5 _pip_ failures"
+    ]
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.0,
+    "bug_ratio": 37.2,
+    "revert_ratio": 0.8,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 10.0,
+    "avg_message_length": 101.7,
+    "debt_signals": {
+      "temporary": 1,
+      "workaround": 1,
+      "broken": 3
+    },
+    "frustration_samples": [
+      "[ie/youtube] Use temporary player client workaround (#14693)",
+      "[cleanup] Remove broken extractors (#14305)",
+      "[ie/vice] Mark extractors as broken (#13131)",
+      "[ie/adobepass] Rework to require software statement (#13131)"
+    ]
+  },
+  {
+    "repo": "vercel/next.js",
+    "era": "pre-ai",
+    "total_commits": 500,
+    "debt_ratio": 7.8,
+    "bug_ratio": 38.4,
+    "revert_ratio": 1.4,
+    "frustration_ratio": 0.4,
+    "positive_ratio": 16.0,
+    "avg_message_length": 463.6,
+    "debt_signals": {
+      "xxx": 24,
+      "todo": 2,
+      "workaround": 2,
+      "broken": 7,
+      "temporary": 3,
+      "hack": 1
+    },
+    "frustration_samples": [
+      "docs: fix cache component doc grammar (#86563)",
+      "Migrate app-dir-export test to be isolated (#86534)",
+      "Try to improve typed-routes test flakyness (#86512)",
+      "Fix grammar and typos in typescript doc (#86513)",
+      "docs: fix getInitialProps execution behavior during navigation (#86387)"
+    ]
+  },
+  {
+    "repo": "521xueweihan/HelloGitHub",
+    "era": "pre-ai",
+    "total_commits": 219,
+    "debt_ratio": 0.0,
+    "bug_ratio": 8.68,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 0.0,
+    "avg_message_length": 19.3,
+    "debt_signals": {},
+    "frustration_samples": []
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 4.6,
+    "bug_ratio": 93.8,
+    "revert_ratio": 5.2,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 59.8,
+    "avg_message_length": 2130.1,
+    "debt_signals": {
+      "temporary": 9,
+      "ugly": 3,
+      "broken": 7,
+      "todo": 2,
+      "hack": 1,
+      "workaround": 1
+    },
+    "frustration_samples": [
+      "hotfix(backend): Temporarily disable library existence check for graph execution (#11318)",
+      "feat(platform): implement admin user impersonation with header-based authentication (#11298)",
+      "hotfix(backend/scheduler): Bump `apscheduler` to DST-fixed version 3.11.1 (#11294)",
+      "fix(backend/scheduler): Bump `apscheduler` to DST-fixed version 3.11.1 (#11294)",
+      "feat(backend/executor): Implement cascading stop for nested graph executions (#11277)"
+    ]
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.2,
+    "bug_ratio": 31.0,
+    "revert_ratio": 1.6,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 1.0,
+    "avg_message_length": 66.7,
+    "debt_signals": {
+      "broken": 1
+    },
+    "frustration_samples": [
+      "fix Replace preview"
+    ]
+  },
+  {
+    "repo": "ollama/ollama",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 4.6,
+    "bug_ratio": 31.6,
+    "revert_ratio": 4.2,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 10.6,
+    "avg_message_length": 219.6,
+    "debt_signals": {
+      "temporary": 14,
+      "xxx": 1,
+      "broken": 4,
+      "workaround": 4
+    },
+    "frustration_samples": [
+      "Enable Vulkan with a temporary opt-in setting (#12931)",
+      "vulkan: temporary cary of vulkan fixes (#12971)",
+      "mac: fix stale VRAM data (#12972)",
+      "cpu: always ensure LibOllamaPath included (#12890)",
+      "ggml: Enable op_offload to improve partial offload performance"
+    ]
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 3.6,
+    "bug_ratio": 78.0,
+    "revert_ratio": 7.4,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 80.8,
+    "avg_message_length": 1076.1,
+    "debt_signals": {
+      "temporary": 8,
+      "todo": 3,
+      "broken": 5,
+      "ugly": 1,
+      "hack": 1
+    },
+    "frustration_samples": [
+      "feat: add s3 file storage implementation (#10526)",
+      "feat: agentic UX (#10567)",
+      "feat(telemetry): Create a new SCARF telemetry event to track the registered email address (#10432)",
+      "fix: make ollama embeddings work with external URLs, make completion API come with type of last comp",
+      "fix: Update IOKeyPairInput and to stop MCP admin losing env vars (#10415)"
+    ]
+  },
+  {
+    "repo": "f/awesome-chatgpt-prompts",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.0,
+    "bug_ratio": 10.2,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 1.4,
+    "avg_message_length": 42.1,
+    "debt_signals": {},
+    "frustration_samples": []
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.8,
+    "bug_ratio": 43.4,
+    "revert_ratio": 1.4,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 9.6,
+    "avg_message_length": 310.7,
+    "debt_signals": {
+      "temporary": 4,
+      "broken": 2,
+      "todo": 2,
+      "workaround": 1
+    },
+    "frustration_samples": [
+      "chore: temporarily skip openai integration tests (#34020)",
+      "docs(langchain): correct IBM provider link in `chat_models` docstring (#33897)",
+      "fix: don't trace conditional edges and no todos in input state (#33842)",
+      "chore: skip anthropic tests while waiting on new anthropic release (#33739)",
+      "fix: shell tool middleware (#33589)"
+    ]
+  },
+  {
+    "repo": "langgenius/dify",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.2,
+    "bug_ratio": 48.4,
+    "revert_ratio": 0.6,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 13.2,
+    "avg_message_length": 132.2,
+    "debt_signals": {
+      "broken": 1
+    },
+    "frustration_samples": [
+      "fix(api): Trace Hierarchy, Span Status, and Broken Workflow for Arize & Phoenix Integration (#27937)"
+    ]
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 58.2,
+    "revert_ratio": 2.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 11.8,
+    "avg_message_length": 204.5,
+    "debt_signals": {
+      "temporary": 2
+    },
+    "frustration_samples": [
+      "docs: add Japanese translate documents (#1812)",
+      "fix: bug fixes for array_hash_map.c and counting_sort.c (#968)"
+    ]
+  },
+  {
+    "repo": "shadcn-ui/ui",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 51.4,
+    "revert_ratio": 0.8,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 5.6,
+    "avg_message_length": 151.3,
+    "debt_signals": {
+      "workaround": 1,
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "feat: upgrade to Next.js 16 (#8615)",
+      "chore: temporarily move tw-animate-css to dependencies"
+    ]
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-V3",
+    "era": "post-ai",
+    "total_commits": 73,
+    "debt_ratio": 0.0,
+    "bug_ratio": 32.88,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 9.59,
+    "avg_message_length": 67.8,
+    "debt_signals": {},
+    "frustration_samples": []
+  },
+  {
+    "repo": "comfyanonymous/ComfyUI",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.0,
+    "bug_ratio": 26.4,
+    "revert_ratio": 0.8,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 5.4,
+    "avg_message_length": 123.1,
+    "debt_signals": {
+      "temporary": 1,
+      "workaround": 3,
+      "todo": 1
+    },
+    "frustration_samples": [
+      "Account for the VRAM cost of weight offloading (#10733)",
+      "Disable workaround on newer cudnn. (#10807)",
+      "Pytorch is stupid. (#10398)",
+      "workaround also works on cudnn 91200 (#10375)",
+      "Workaround for nvidia issue where VAE uses 3x more memory on torch 2.9 (#10373)"
+    ]
+  },
+  {
+    "repo": "openai/whisper",
+    "era": "post-ai",
+    "total_commits": 166,
+    "debt_ratio": 0.6,
+    "bug_ratio": 31.93,
+    "revert_ratio": 2.41,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 4.82,
+    "avg_message_length": 155.5,
+    "debt_signals": {
+      "broken": 1
+    },
+    "frustration_samples": [
+      "word-level timestamps in `transcribe()` (#869)"
+    ]
+  },
+  {
+    "repo": "ChatGPTNextWeb/NextChat",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.2,
+    "bug_ratio": 32.6,
+    "revert_ratio": 0.6,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 4.0,
+    "avg_message_length": 59.0,
+    "debt_signals": {
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "Merge pull request #6132 from RetiredQQ/main"
+    ]
+  },
+  {
+    "repo": "immich-app/immich",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.8,
+    "bug_ratio": 55.0,
+    "revert_ratio": 2.8,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 20.0,
+    "avg_message_length": 310.6,
+    "debt_signals": {
+      "broken": 3,
+      "todo": 1
+    },
+    "frustration_samples": [
+      "feat: workflow foundation (#23621)",
+      "fix(server): broken memories (#23896)",
+      "feat(web): wasm justified layout, sync edition (#23194)",
+      "refactor: users.total metric (#23158)"
+    ]
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 1.8,
+    "bug_ratio": 30.6,
+    "revert_ratio": 1.6,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 12.4,
+    "avg_message_length": 76.6,
+    "debt_signals": {
+      "todo": 6,
+      "broken": 3
+    },
+    "frustration_samples": [
+      "SI prompt nudge for the todo tool (#12159)",
+      "feat(ui): Fix Todo item text color not propagating for custom themes (#12265)",
+      "refactor(todo): improve performance and readability of todo component (#12238)",
+      "Hide collapsed Todo tray when they're all done. (#12242)",
+      "Remove Todo Icon (#12190)"
+    ]
+  },
+  {
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.4,
+    "bug_ratio": 38.2,
+    "revert_ratio": 3.6,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 54.2,
+    "avg_message_length": 191.2,
+    "debt_signals": {
+      "broken": 1,
+      "temporary": 1
+    },
+    "frustration_samples": [
+      "fix: Monaco syntax highlighting broken by CSS injection #5440",
+      "fix: update download links for Windows and macOS installers",
+      "chore: temporarily allow clippy to pass"
+    ]
+  },
+  {
+    "repo": "microsoft/markitdown",
+    "era": "post-ai",
+    "total_commits": 295,
+    "debt_ratio": 0.34,
+    "bug_ratio": 35.25,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 8.47,
+    "avg_message_length": 95.0,
+    "debt_signals": {
+      "todo": 1
+    },
+    "frustration_samples": [
+      "Pin Markdownify version. (#1069)"
+    ]
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.2,
+    "bug_ratio": 20.4,
+    "revert_ratio": 0.0,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 17.4,
+    "avg_message_length": 75.5,
+    "debt_signals": {
+      "broken": 1
+    },
+    "frustration_samples": [
+      "Fixing broken link"
+    ]
+  },
+  {
+    "repo": "hacksider/Deep-Live-Cam",
+    "era": "post-ai",
+    "total_commits": 492,
+    "debt_ratio": 0.41,
+    "bug_ratio": 21.54,
+    "revert_ratio": 4.88,
+    "frustration_ratio": 0.2,
+    "positive_ratio": 3.86,
+    "avg_message_length": 54.2,
+    "debt_signals": {
+      "temporary": 1,
+      "todo": 1
+    },
+    "frustration_samples": [
+      "Remove Mac Edition Temporarily",
+      "Update ui.py",
+      "Add TODO to README.md"
+    ]
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "era": "post-ai",
+    "total_commits": 500,
+    "debt_ratio": 0.6,
+    "bug_ratio": 20.8,
+    "revert_ratio": 0.2,
+    "frustration_ratio": 0.0,
+    "positive_ratio": 6.4,
+    "avg_message_length": 155.4,
+    "debt_signals": {
+      "broken": 2,
+      "workaround": 1
+    },
+    "frustration_samples": [
+      "Merge pull request #2982 from hassan254-prog/patch-1-1",
+      "fix: nango broken logo link",
+      "* in .gitignore"
+    ]
+  }
+]

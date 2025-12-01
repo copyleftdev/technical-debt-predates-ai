@@ -25,6 +25,24 @@ Read that first data row again. **Pre-AI repositories have a higher issue-to-sta
 
 The repos built by experienced engineers before AI tools went mainstream actually have *more* technical debt per unit of popularity than newer ones.
 
+## But Wait, There's More: NLP Analysis
+
+I wasn't satisfied with just counting issues. I wanted to look inside the commits themselves. So I pulled 18,000+ commit messages from 40 repositories and ran NLP analysis looking for signals of debt, frustration, and code quality.
+
+| What Developers Write | Pre-AI Era | Post-AI Era |
+|-----------------------|------------|-------------|
+| Commits Analyzed | 9,555 | 9,026 |
+| **Debt signals** (TODO, HACK, FIXME) per 100 | **2.51** | 1.20 |
+| **Frustration signals** (wtf, stupid, ugh) per 100 | **0.29** | 0.04 |
+| **Positive signals** (refactor, improve, clean) per 100 | 7.94 | **18.03** |
+| Avg commit message length | 166 chars | **285 chars** |
+
+Pre-AI developers left **twice as many** TODO/HACK/FIXME markers in their commits. They expressed frustration **seven times more often**. And post-AI commits contain **twice as many** positive signals like "refactor" and "improve."
+
+The cherry on top? Post-AI commit messages are nearly twice as long on average. More context. More explanation. Better documentation.
+
+If AI were teaching developers bad habits, we'd see the opposite pattern.
+
 ## The Hall of Shame
 
 Let's look at which repositories have the most issues relative to their popularity:
