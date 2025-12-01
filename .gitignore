@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+.python-version
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

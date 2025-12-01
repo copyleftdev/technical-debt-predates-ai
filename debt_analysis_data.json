@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "facebook/react",
+    "stars": 240980,
+    "open_issues": 1102,
+    "issues_per_1k_stars": 4.57,
+    "created_at": "2013-05-24T16:15:54+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "trekhleb/javascript-algorithms",
+    "stars": 194575,
+    "open_issues": 380,
+    "issues_per_1k_stars": 1.95,
+    "created_at": "2018-03-24T07:47:04+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "airbnb/javascript",
+    "stars": 147919,
+    "open_issues": 180,
+    "issues_per_1k_stars": 1.22,
+    "created_at": "2012-11-01T23:13:50+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "vercel/next.js",
+    "stars": 135944,
+    "open_issues": 3144,
+    "issues_per_1k_stars": 23.13,
+    "created_at": "2016-10-05T23:32:51+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "Chalarangelo/30-seconds-of-code",
+    "stars": 125890,
+    "open_issues": 0,
+    "issues_per_1k_stars": 0.0,
+    "created_at": "2017-11-29T17:35:03+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "nodejs/node",
+    "stars": 114518,
+    "open_issues": 2412,
+    "issues_per_1k_stars": 21.06,
+    "created_at": "2014-11-26T19:57:11+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "mrdoob/three.js",
+    "stars": 109597,
+    "open_issues": 602,
+    "issues_per_1k_stars": 5.49,
+    "created_at": "2010-03-23T18:58:01+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "axios/axios",
+    "stars": 108304,
+    "open_issues": 332,
+    "issues_per_1k_stars": 3.07,
+    "created_at": "2014-08-18T22:30:27+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "facebook/create-react-app",
+    "stars": 103877,
+    "open_issues": 2356,
+    "issues_per_1k_stars": 22.68,
+    "created_at": "2016-07-17T14:55:11+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "mui/material-ui",
+    "stars": 97385,
+    "open_issues": 1754,
+    "issues_per_1k_stars": 18.01,
+    "created_at": "2014-08-18T19:11:54+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "jaywcjlove/awesome-mac",
+    "stars": 94501,
+    "open_issues": 163,
+    "issues_per_1k_stars": 1.72,
+    "created_at": "2016-07-17T15:33:47+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "microsoft/Web-Dev-For-Beginners",
+    "stars": 94489,
+    "open_issues": 56,
+    "issues_per_1k_stars": 0.59,
+    "created_at": "2020-11-10T02:44:00+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "ryanmcdermott/clean-code-javascript",
+    "stars": 94089,
+    "open_issues": 115,
+    "issues_per_1k_stars": 1.22,
+    "created_at": "2016-11-25T22:25:41+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "sveltejs/svelte",
+    "stars": 84994,
+    "open_issues": 960,
+    "issues_per_1k_stars": 11.29,
+    "created_at": "2016-11-20T18:13:05+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "louislam/uptime-kuma",
+    "stars": 79112,
+    "open_issues": 777,
+    "issues_per_1k_stars": 9.82,
+    "created_at": "2021-07-03T01:02:42+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "anuraghazra/github-readme-stats",
+    "stars": 77168,
+    "open_issues": 222,
+    "issues_per_1k_stars": 2.88,
+    "created_at": "2020-07-09T10:34:22+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "FortAwesome/Font-Awesome",
+    "stars": 75838,
+    "open_issues": 3793,
+    "issues_per_1k_stars": 50.01,
+    "created_at": "2012-02-17T14:19:43+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "typicode/json-server",
+    "stars": 75400,
+    "open_issues": 721,
+    "issues_per_1k_stars": 9.56,
+    "created_at": "2013-11-27T13:21:13+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "hakimel/reveal.js",
+    "stars": 69901,
+    "open_issues": 877,
+    "issues_per_1k_stars": 12.55,
+    "created_at": "2011-06-07T18:54:22+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "expressjs/express",
+    "stars": 68279,
+    "open_issues": 217,
+    "issues_per_1k_stars": 3.18,
+    "created_at": "2009-06-26T18:56:01+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "chartjs/Chart.js",
+    "stars": 66821,
+    "open_issues": 500,
+    "issues_per_1k_stars": 7.48,
+    "created_at": "2013-03-17T23:56:36+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "leonardomso/33-js-concepts",
+    "stars": 65955,
+    "open_issues": 135,
+    "issues_per_1k_stars": 2.05,
+    "created_at": "2018-09-04T13:27:04+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "webpack/webpack",
+    "stars": 65792,
+    "open_issues": 219,
+    "issues_per_1k_stars": 3.33,
+    "created_at": "2012-03-10T10:08:14+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "juliangarnier/anime",
+    "stars": 65334,
+    "open_issues": 88,
+    "issues_per_1k_stars": 1.35,
+    "created_at": "2016-03-13T21:37:45+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "resume/resume.github.com",
+    "stars": 62694,
+    "open_issues": 71,
+    "issues_per_1k_stars": 1.13,
+    "created_at": "2011-02-06T13:39:55+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "lodash/lodash",
+    "stars": 61438,
+    "open_issues": 96,
+    "issues_per_1k_stars": 1.56,
+    "created_at": "2012-04-07T04:11:46+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "atom/atom",
+    "stars": 60894,
+    "open_issues": 994,
+    "issues_per_1k_stars": 16.32,
+    "created_at": "2012-01-20T18:18:21+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "adam-p/markdown-here",
+    "stars": 60098,
+    "open_issues": 317,
+    "issues_per_1k_stars": 5.27,
+    "created_at": "2012-05-13T03:27:22+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "gorhill/uBlock",
+    "stars": 60053,
+    "open_issues": 18,
+    "issues_per_1k_stars": 0.3,
+    "created_at": "2015-04-01T17:51:11+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "jquery/jquery",
+    "stars": 59643,
+    "open_issues": 94,
+    "issues_per_1k_stars": 1.58,
+    "created_at": "2009-04-03T15:20:14+00:00",
+    "era": "pre-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "f/awesome-chatgpt-prompts",
+    "stars": 137904,
+    "open_issues": 291,
+    "issues_per_1k_stars": 2.11,
+    "created_at": "2022-12-05T13:54:13+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 51687,
+    "open_issues": 288,
+    "issues_per_1k_stars": 5.57,
+    "created_at": "2023-06-04T02:29:14+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "usebruno/bruno",
+    "stars": 39012,
+    "open_issues": 1611,
+    "issues_per_1k_stars": 41.29,
+    "created_at": "2022-09-27T20:51:45+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "HeyPuter/puter",
+    "stars": 37522,
+    "open_issues": 240,
+    "issues_per_1k_stars": 6.4,
+    "created_at": "2024-03-03T01:44:32+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "drawdb-io/drawdb",
+    "stars": 35010,
+    "open_issues": 155,
+    "issues_per_1k_stars": 4.43,
+    "created_at": "2023-07-16T17:09:20+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "danielmiessler/Fabric",
+    "stars": 34816,
+    "open_issues": 36,
+    "issues_per_1k_stars": 1.03,
+    "created_at": "2024-01-03T23:18:31+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "DavidHDev/react-bits",
+    "stars": 31626,
+    "open_issues": 3,
+    "issues_per_1k_stars": 0.09,
+    "created_at": "2024-08-06T06:54:54+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "songquanpeng/one-api",
+    "stars": 28230,
+    "open_issues": 971,
+    "issues_per_1k_stars": 34.4,
+    "created_at": "2023-04-22T12:39:24+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "gethomepage/homepage",
+    "stars": 26998,
+    "open_issues": 1,
+    "issues_per_1k_stars": 0.04,
+    "created_at": "2022-08-24T07:29:42+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "fanmingming/live",
+    "stars": 26845,
+    "open_issues": 28,
+    "issues_per_1k_stars": 1.04,
+    "created_at": "2022-11-16T18:03:31+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "eyaltoledano/claude-task-master",
+    "stars": 23968,
+    "open_issues": 146,
+    "issues_per_1k_stars": 6.09,
+    "created_at": "2025-03-04T18:54:54+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "bmad-code-org/BMAD-METHOD",
+    "stars": 23608,
+    "open_issues": 70,
+    "issues_per_1k_stars": 2.97,
+    "created_at": "2025-04-13T14:54:25+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "Gar-b-age/CookLikeHOC",
+    "stars": 22350,
+    "open_issues": 134,
+    "issues_per_1k_stars": 6.0,
+    "created_at": "2024-04-10T15:01:12+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "SillyTavern/SillyTavern",
+    "stars": 20435,
+    "open_issues": 335,
+    "issues_per_1k_stars": 16.39,
+    "created_at": "2023-02-09T10:19:24+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "bgstaal/multipleWindow3dScene",
+    "stars": 18963,
+    "open_issues": 38,
+    "issues_per_1k_stars": 2.0,
+    "created_at": "2023-11-23T11:03:22+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "ai-shifu/ChatALL",
+    "stars": 16154,
+    "open_issues": 251,
+    "issues_per_1k_stars": 15.54,
+    "created_at": "2023-04-08T10:34:30+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "pot-app/pot-desktop",
+    "stars": 15986,
+    "open_issues": 420,
+    "issues_per_1k_stars": 26.27,
+    "created_at": "2023-02-26T13:52:11+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "leaningtech/webvm",
+    "stars": 15921,
+    "open_issues": 12,
+    "issues_per_1k_stars": 0.75,
+    "created_at": "2022-01-31T20:45:58+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "huggingface/transformers.js",
+    "stars": 14992,
+    "open_issues": 415,
+    "issues_per_1k_stars": 27.68,
+    "created_at": "2023-02-13T13:51:45+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "xcanwin/KeepChatGPT",
+    "stars": 14905,
+    "open_issues": 112,
+    "issues_per_1k_stars": 7.51,
+    "created_at": "2023-03-28T18:12:33+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "divamgupta/diffusionbee-stable-diffusion-ui",
+    "stars": 13456,
+    "open_issues": 399,
+    "issues_per_1k_stars": 29.65,
+    "created_at": "2022-09-06T02:11:00+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "github/awesome-copilot",
+    "stars": 13174,
+    "open_issues": 7,
+    "issues_per_1k_stars": 0.53,
+    "created_at": "2025-06-11T16:57:39+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "QuantumNous/new-api",
+    "stars": 12969,
+    "open_issues": 462,
+    "issues_per_1k_stars": 35.62,
+    "created_at": "2023-11-10T19:33:36+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "yonggekkk/Cloudflare-vless-trojan",
+    "stars": 12583,
+    "open_issues": 0,
+    "issues_per_1k_stars": 0.0,
+    "created_at": "2023-07-22T05:43:42+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "LibreSpark/LibreTV",
+    "stars": 12578,
+    "open_issues": 96,
+    "issues_per_1k_stars": 7.63,
+    "created_at": "2025-04-06T10:52:08+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "ConardLi/easy-dataset",
+    "stars": 12076,
+    "open_issues": 97,
+    "issues_per_1k_stars": 8.03,
+    "created_at": "2025-03-04T16:14:14+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "hiteshchoudhary/chai-aur-react",
+    "stars": 12005,
+    "open_issues": 230,
+    "issues_per_1k_stars": 19.16,
+    "created_at": "2023-08-17T17:38:48+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "stars": 11957,
+    "open_issues": 53,
+    "issues_per_1k_stars": 4.43,
+    "created_at": "2025-07-04T01:26:26+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "shareAI-lab/analysis_claude_code",
+    "stars": 11455,
+    "open_issues": 0,
+    "issues_per_1k_stars": 0.0,
+    "created_at": "2025-06-29T15:34:15+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "ChatGPTBox-dev/chatGPTBox",
+    "stars": 10714,
+    "open_issues": 367,
+    "issues_per_1k_stars": 34.25,
+    "created_at": "2023-03-15T08:16:17+00:00",
+    "era": "post-ai",
+    "language": "JavaScript"
+  },
+  {
+    "name": "public-apis/public-apis",
+    "stars": 382011,
+    "open_issues": 734,
+    "issues_per_1k_stars": 1.92,
+    "created_at": "2016-03-20T23:49:42+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "EbookFoundation/free-programming-books",
+    "stars": 378015,
+    "open_issues": 201,
+    "issues_per_1k_stars": 0.53,
+    "created_at": "2013-10-11T06:50:37+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "donnemartin/system-design-primer",
+    "stars": 328096,
+    "open_issues": 512,
+    "issues_per_1k_stars": 1.56,
+    "created_at": "2017-02-26T16:15:28+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "vinta/awesome-python",
+    "stars": 271893,
+    "open_issues": 519,
+    "issues_per_1k_stars": 1.91,
+    "created_at": "2014-06-27T21:00:06+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "TheAlgorithms/Python",
+    "stars": 213904,
+    "open_issues": 776,
+    "issues_per_1k_stars": 3.63,
+    "created_at": "2016-07-16T09:44:01+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "huggingface/transformers",
+    "stars": 153198,
+    "open_issues": 2126,
+    "issues_per_1k_stars": 13.88,
+    "created_at": "2018-10-29T13:56:00+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "ytdl-org/youtube-dl",
+    "stars": 138995,
+    "open_issues": 4124,
+    "issues_per_1k_stars": 29.67,
+    "created_at": "2010-10-31T14:35:07+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "yt-dlp/yt-dlp",
+    "stars": 136757,
+    "open_issues": 2219,
+    "issues_per_1k_stars": 16.23,
+    "created_at": "2020-10-26T04:22:55+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "521xueweihan/HelloGitHub",
+    "stars": 135717,
+    "open_issues": 231,
+    "issues_per_1k_stars": 1.7,
+    "created_at": "2016-05-04T06:24:11+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "pytorch/pytorch",
+    "stars": 95493,
+    "open_issues": 17801,
+    "issues_per_1k_stars": 186.41,
+    "created_at": "2016-08-13T05:26:41+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "nvbn/thefuck",
+    "stars": 94768,
+    "open_issues": 397,
+    "issues_per_1k_stars": 4.19,
+    "created_at": "2015-04-08T15:08:04+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "fastapi/fastapi",
+    "stars": 92501,
+    "open_issues": 226,
+    "issues_per_1k_stars": 2.44,
+    "created_at": "2018-12-08T08:21:47+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "django/django",
+    "stars": 85985,
+    "open_issues": 367,
+    "issues_per_1k_stars": 4.27,
+    "created_at": "2012-04-28T02:47:18+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "home-assistant/core",
+    "stars": 82883,
+    "open_issues": 2928,
+    "issues_per_1k_stars": 35.33,
+    "created_at": "2013-09-17T07:29:48+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "3b1b/manim",
+    "stars": 82149,
+    "open_issues": 482,
+    "issues_per_1k_stars": 5.87,
+    "created_at": "2015-03-22T18:50:58+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "bregman-arie/devops-exercises",
+    "stars": 80101,
+    "open_issues": 46,
+    "issues_per_1k_stars": 0.57,
+    "created_at": "2019-10-03T17:31:21+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "tensorflow/models",
+    "stars": 77674,
+    "open_issues": 1262,
+    "issues_per_1k_stars": 16.25,
+    "created_at": "2016-02-05T01:15:20+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "fighting41love/funNLP",
+    "stars": 77561,
+    "open_issues": 42,
+    "issues_per_1k_stars": 0.54,
+    "created_at": "2018-08-21T11:20:39+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "d2l-ai/d2l-zh",
+    "stars": 74136,
+    "open_issues": 119,
+    "issues_per_1k_stars": 1.61,
+    "created_at": "2017-08-23T04:40:24+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "Alvin9999/new-pac",
+    "stars": 71970,
+    "open_issues": 447,
+    "issues_per_1k_stars": 6.21,
+    "created_at": "2016-03-23T08:43:36+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "stars": 71960,
+    "open_issues": 14,
+    "issues_per_1k_stars": 0.19,
+    "created_at": "2016-10-18T07:29:07+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "pallets/flask",
+    "stars": 70860,
+    "open_issues": 12,
+    "issues_per_1k_stars": 0.17,
+    "created_at": "2010-04-06T11:11:59+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "josephmisiti/awesome-machine-learning",
+    "stars": 70803,
+    "open_issues": 17,
+    "issues_per_1k_stars": 0.24,
+    "created_at": "2014-07-15T19:11:19+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "sherlock-project/sherlock",
+    "stars": 70640,
+    "open_issues": 177,
+    "issues_per_1k_stars": 2.51,
+    "created_at": "2018-12-24T14:30:48+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "python/cpython",
+    "stars": 70074,
+    "open_issues": 9185,
+    "issues_per_1k_stars": 131.08,
+    "created_at": "2017-02-10T19:23:51+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "ansible/ansible",
+    "stars": 67184,
+    "open_issues": 889,
+    "issues_per_1k_stars": 13.23,
+    "created_at": "2012-03-06T14:58:02+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "PaddlePaddle/PaddleOCR",
+    "stars": 65399,
+    "open_issues": 286,
+    "issues_per_1k_stars": 4.37,
+    "created_at": "2020-05-08T10:38:16+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "labmlai/annotated_deep_learning_paper_implementations",
+    "stars": 64608,
+    "open_issues": 27,
+    "issues_per_1k_stars": 0.42,
+    "created_at": "2020-08-25T02:29:34+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "scikit-learn/scikit-learn",
+    "stars": 64166,
+    "open_issues": 2111,
+    "issues_per_1k_stars": 32.9,
+    "created_at": "2010-08-17T09:43:38+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "keras-team/keras",
+    "stars": 63617,
+    "open_issues": 269,
+    "issues_per_1k_stars": 4.23,
+    "created_at": "2015-03-28T00:35:42+00:00",
+    "era": "pre-ai",
+    "language": "Python"
+  },
+  {
+    "name": "Significant-Gravitas/AutoGPT",
+    "stars": 180033,
+    "open_issues": 315,
+    "issues_per_1k_stars": 1.75,
+    "created_at": "2023-03-16T09:21:07+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "stars": 158651,
+    "open_issues": 2440,
+    "issues_per_1k_stars": 15.38,
+    "created_at": "2022-08-22T14:05:26+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "langflow-ai/langflow",
+    "stars": 139872,
+    "open_issues": 950,
+    "issues_per_1k_stars": 6.79,
+    "created_at": "2023-02-08T22:28:03+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "langchain-ai/langchain",
+    "stars": 120799,
+    "open_issues": 290,
+    "issues_per_1k_stars": 2.4,
+    "created_at": "2022-10-17T02:58:36+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-V3",
+    "stars": 100451,
+    "open_issues": 69,
+    "issues_per_1k_stars": 0.69,
+    "created_at": "2024-12-26T09:52:40+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "comfyanonymous/ComfyUI",
+    "stars": 95036,
+    "open_issues": 3217,
+    "issues_per_1k_stars": 33.85,
+    "created_at": "2023-01-17T03:15:56+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "openai/whisper",
+    "stars": 91406,
+    "open_issues": 108,
+    "issues_per_1k_stars": 1.18,
+    "created_at": "2022-09-16T20:02:54+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "stars": 83470,
+    "open_issues": 390,
+    "issues_per_1k_stars": 4.67,
+    "created_at": "2024-11-13T19:56:40+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "stars": 81056,
+    "open_issues": 2,
+    "issues_per_1k_stars": 0.02,
+    "created_at": "2024-04-29T05:30:25+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "hacksider/Deep-Live-Cam",
+    "stars": 76052,
+    "open_issues": 90,
+    "issues_per_1k_stars": 1.18,
+    "created_at": "2023-09-24T13:19:31+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "browser-use/browser-use",
+    "stars": 73109,
+    "open_issues": 155,
+    "issues_per_1k_stars": 2.12,
+    "created_at": "2024-10-31T16:00:56+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "abi/screenshot-to-code",
+    "stars": 71233,
+    "open_issues": 131,
+    "issues_per_1k_stars": 1.84,
+    "created_at": "2023-11-14T17:53:32+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "binary-husky/gpt_academic",
+    "stars": 69746,
+    "open_issues": 292,
+    "issues_per_1k_stars": 4.19,
+    "created_at": "2023-03-20T09:05:13+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "stars": 68563,
+    "open_issues": 2897,
+    "issues_per_1k_stars": 42.25,
+    "created_at": "2023-12-12T06:13:13+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "xtekky/gpt4free",
+    "stars": 65595,
+    "open_issues": 10,
+    "issues_per_1k_stars": 0.15,
+    "created_at": "2023-03-29T17:00:43+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "OpenHands/OpenHands",
+    "stars": 65314,
+    "open_issues": 206,
+    "issues_per_1k_stars": 3.15,
+    "created_at": "2024-03-13T03:33:31+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "vllm-project/vllm",
+    "stars": 64274,
+    "open_issues": 3156,
+    "issues_per_1k_stars": 49.1,
+    "created_at": "2023-02-09T11:23:20+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "hiyouga/LLaMA-Factory",
+    "stars": 63308,
+    "open_issues": 799,
+    "issues_per_1k_stars": 12.62,
+    "created_at": "2023-05-28T10:09:12+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "openinterpreter/open-interpreter",
+    "stars": 60927,
+    "open_issues": 279,
+    "issues_per_1k_stars": 4.58,
+    "created_at": "2023-07-14T07:10:44+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "FoundationAgents/MetaGPT",
+    "stars": 59749,
+    "open_issues": 57,
+    "issues_per_1k_stars": 0.95,
+    "created_at": "2023-06-30T09:04:55+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "meta-llama/llama",
+    "stars": 58955,
+    "open_issues": 508,
+    "issues_per_1k_stars": 8.62,
+    "created_at": "2023-02-14T09:29:12+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "zylon-ai/private-gpt",
+    "stars": 56874,
+    "open_issues": 285,
+    "issues_per_1k_stars": 5.01,
+    "created_at": "2023-05-02T09:15:31+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "unclecode/crawl4ai",
+    "stars": 56574,
+    "open_issues": 267,
+    "issues_per_1k_stars": 4.72,
+    "created_at": "2024-05-09T09:48:50+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "AntonOsika/gpt-engineer",
+    "stars": 55073,
+    "open_issues": 66,
+    "issues_per_1k_stars": 1.2,
+    "created_at": "2023-04-29T12:52:15+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "RVC-Boss/GPT-SoVITS",
+    "stars": 52658,
+    "open_issues": 834,
+    "issues_per_1k_stars": 15.84,
+    "created_at": "2024-01-14T18:05:21+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "github/spec-kit",
+    "stars": 52256,
+    "open_issues": 492,
+    "issues_per_1k_stars": 9.42,
+    "created_at": "2025-08-21T22:54:31+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "microsoft/autogen",
+    "stars": 52068,
+    "open_issues": 519,
+    "issues_per_1k_stars": 9.97,
+    "created_at": "2023-08-18T11:43:45+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "FoundationAgents/OpenManus",
+    "stars": 51059,
+    "open_issues": 523,
+    "issues_per_1k_stars": 10.24,
+    "created_at": "2025-03-06T14:08:14+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "xai-org/grok-1",
+    "stars": 50578,
+    "open_issues": 124,
+    "issues_per_1k_stars": 2.45,
+    "created_at": "2024-03-17T08:53:38+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "pathwaycom/pathway",
+    "stars": 50534,
+    "open_issues": 40,
+    "issues_per_1k_stars": 0.79,
+    "created_at": "2022-11-27T13:01:14+00:00",
+    "era": "post-ai",
+    "language": "Python"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "stars": 433728,
+    "open_issues": 314,
+    "issues_per_1k_stars": 0.72,
+    "created_at": "2014-12-24T17:49:19+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "kamranahmedse/developer-roadmap",
+    "stars": 344648,
+    "open_issues": 68,
+    "issues_per_1k_stars": 0.2,
+    "created_at": "2017-03-15T13:45:52+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "vuejs/vue",
+    "stars": 209735,
+    "open_issues": 615,
+    "issues_per_1k_stars": 2.93,
+    "created_at": "2013-07-29T03:24:51+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "microsoft/vscode",
+    "stars": 179136,
+    "open_issues": 14639,
+    "issues_per_1k_stars": 81.72,
+    "created_at": "2015-09-03T20:23:38+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "stars": 159733,
+    "open_issues": 1284,
+    "issues_per_1k_stars": 8.04,
+    "created_at": "2019-06-22T09:24:21+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "yangshun/tech-interview-handbook",
+    "stars": 135444,
+    "open_issues": 53,
+    "issues_per_1k_stars": 0.39,
+    "created_at": "2016-07-05T05:00:48+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "excalidraw/excalidraw",
+    "stars": 111536,
+    "open_issues": 2603,
+    "issues_per_1k_stars": 23.34,
+    "created_at": "2020-01-02T01:04:43+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "stars": 106912,
+    "open_issues": 5971,
+    "issues_per_1k_stars": 55.85,
+    "created_at": "2014-06-17T15:28:39+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "iptv-org/iptv",
+    "stars": 103915,
+    "open_issues": 308,
+    "issues_per_1k_stars": 2.96,
+    "created_at": "2018-11-14T22:00:57+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "angular/angular",
+    "stars": 99423,
+    "open_issues": 1183,
+    "issues_per_1k_stars": 11.9,
+    "created_at": "2014-09-18T16:12:01+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "ant-design/ant-design",
+    "stars": 96812,
+    "open_issues": 1323,
+    "issues_per_1k_stars": 13.67,
+    "created_at": "2015-04-24T15:37:24+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "supabase/supabase",
+    "stars": 93798,
+    "open_issues": 682,
+    "issues_per_1k_stars": 7.27,
+    "created_at": "2019-10-12T05:56:49+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "stars": 92951,
+    "open_issues": 296,
+    "issues_per_1k_stars": 3.18,
+    "created_at": "2017-05-09T22:16:13+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "stars": 91293,
+    "open_issues": 58,
+    "issues_per_1k_stars": 0.64,
+    "created_at": "2017-10-06T14:59:14+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "storybookjs/storybook",
+    "stars": 88751,
+    "open_issues": 2260,
+    "issues_per_1k_stars": 25.46,
+    "created_at": "2016-03-18T04:23:44+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "mermaid-js/mermaid",
+    "stars": 84414,
+    "open_issues": 1532,
+    "issues_per_1k_stars": 18.15,
+    "created_at": "2014-11-01T23:52:32+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "gothinkster/realworld",
+    "stars": 82612,
+    "open_issues": 54,
+    "issues_per_1k_stars": 0.65,
+    "created_at": "2016-02-26T20:49:53+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "microsoft/playwright",
+    "stars": 79771,
+    "open_issues": 558,
+    "issues_per_1k_stars": 7.0,
+    "created_at": "2019-11-15T18:32:42+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "hoppscotch/hoppscotch",
+    "stars": 77131,
+    "open_issues": 577,
+    "issues_per_1k_stars": 7.48,
+    "created_at": "2019-08-21T13:15:24+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "vitejs/vite",
+    "stars": 76806,
+    "open_issues": 610,
+    "issues_per_1k_stars": 7.94,
+    "created_at": "2020-04-21T05:03:57+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "coder/code-server",
+    "stars": 75148,
+    "open_issues": 167,
+    "issues_per_1k_stars": 2.22,
+    "created_at": "2019-02-27T16:50:41+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "nestjs/nest",
+    "stars": 73684,
+    "open_issues": 71,
+    "issues_per_1k_stars": 0.96,
+    "created_at": "2017-02-04T20:12:52+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "grafana/grafana",
+    "stars": 71051,
+    "open_issues": 3692,
+    "issues_per_1k_stars": 51.96,
+    "created_at": "2013-12-11T15:59:56+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "strapi/strapi",
+    "stars": 70536,
+    "open_issues": 733,
+    "issues_per_1k_stars": 10.39,
+    "created_at": "2015-09-30T15:34:48+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "apache/superset",
+    "stars": 69158,
+    "open_issues": 1004,
+    "issues_per_1k_stars": 14.52,
+    "created_at": "2015-07-21T18:55:34+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "Eugeny/tabby",
+    "stars": 67386,
+    "open_issues": 2510,
+    "issues_per_1k_stars": 37.25,
+    "created_at": "2016-12-23T09:06:10+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "apache/echarts",
+    "stars": 65146,
+    "open_issues": 1882,
+    "issues_per_1k_stars": 28.89,
+    "created_at": "2013-04-03T03:18:59+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "facebook/docusaurus",
+    "stars": 62821,
+    "open_issues": 350,
+    "issues_per_1k_stars": 5.57,
+    "created_at": "2017-06-20T16:13:53+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "socketio/socket.io",
+    "stars": 62648,
+    "open_issues": 214,
+    "issues_per_1k_stars": 3.42,
+    "created_at": "2010-03-11T18:24:48+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "reduxjs/redux",
+    "stars": 61416,
+    "open_issues": 46,
+    "issues_per_1k_stars": 0.75,
+    "created_at": "2015-05-29T23:53:15+00:00",
+    "era": "pre-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "langgenius/dify",
+    "stars": 120168,
+    "open_issues": 666,
+    "issues_per_1k_stars": 5.54,
+    "created_at": "2023-04-12T07:40:24+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "shadcn-ui/ui",
+    "stars": 100989,
+    "open_issues": 1666,
+    "issues_per_1k_stars": 16.5,
+    "created_at": "2023-01-04T12:43:27+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "ChatGPTNextWeb/NextChat",
+    "stars": 86549,
+    "open_issues": 787,
+    "issues_per_1k_stars": 9.09,
+    "created_at": "2023-03-10T18:27:54+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "immich-app/immich",
+    "stars": 85368,
+    "open_issues": 620,
+    "issues_per_1k_stars": 7.26,
+    "created_at": "2022-02-03T15:56:27+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "google-gemini/gemini-cli",
+    "stars": 85279,
+    "open_issues": 3164,
+    "issues_per_1k_stars": 37.1,
+    "created_at": "2025-04-17T17:04:31+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "clash-verge-rev/clash-verge-rev",
+    "stars": 84849,
+    "open_issues": 83,
+    "issues_per_1k_stars": 0.98,
+    "created_at": "2023-11-21T18:24:03+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "stars": 73583,
+    "open_issues": 248,
+    "issues_per_1k_stars": 3.37,
+    "created_at": "2024-11-19T01:10:17+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "firecrawl/firecrawl",
+    "stars": 68838,
+    "open_issues": 143,
+    "issues_per_1k_stars": 2.08,
+    "created_at": "2024-04-15T21:02:29+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "lobehub/lobe-chat",
+    "stars": 68293,
+    "open_issues": 1009,
+    "issues_per_1k_stars": 14.77,
+    "created_at": "2023-05-21T07:19:12+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "toeverything/AFFiNE",
+    "stars": 60240,
+    "open_issues": 543,
+    "issues_per_1k_stars": 9.01,
+    "created_at": "2022-07-31T18:45:21+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "cline/cline",
+    "stars": 53762,
+    "open_issues": 937,
+    "issues_per_1k_stars": 17.43,
+    "created_at": "2024-07-06T07:28:10+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "FlowiseAI/Flowise",
+    "stars": 46991,
+    "open_issues": 706,
+    "issues_per_1k_stars": 15.02,
+    "created_at": "2023-03-31T12:23:09+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "stars": 44021,
+    "open_issues": 236,
+    "issues_per_1k_stars": 5.36,
+    "created_at": "2025-06-22T08:02:17+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "AykutSarac/jsoncrack.com",
+    "stars": 42507,
+    "open_issues": 82,
+    "issues_per_1k_stars": 1.93,
+    "created_at": "2022-01-30T15:25:18+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "upscayl/upscayl",
+    "stars": 41456,
+    "open_issues": 62,
+    "issues_per_1k_stars": 1.5,
+    "created_at": "2022-07-30T17:19:20+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "makeplane/plane",
+    "stars": 40206,
+    "open_issues": 594,
+    "issues_per_1k_stars": 14.77,
+    "created_at": "2022-11-19T12:55:01+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "janhq/jan",
+    "stars": 39546,
+    "open_issues": 200,
+    "issues_per_1k_stars": 5.06,
+    "created_at": "2023-08-17T02:17:10+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "upstash/context7",
+    "stars": 38257,
+    "open_issues": 106,
+    "issues_per_1k_stars": 2.77,
+    "created_at": "2025-03-26T23:40:39+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "chatboxai/chatbox",
+    "stars": 37561,
+    "open_issues": 981,
+    "issues_per_1k_stars": 26.12,
+    "created_at": "2023-03-06T12:22:15+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "twentyhq/twenty",
+    "stars": 37027,
+    "open_issues": 313,
+    "issues_per_1k_stars": 8.45,
+    "created_at": "2022-12-01T13:04:40+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "inkonchain/ink-kit",
+    "stars": 36805,
+    "open_issues": 3,
+    "issues_per_1k_stars": 0.08,
+    "created_at": "2024-11-04T16:32:17+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "RSSNext/Folo",
+    "stars": 36013,
+    "open_issues": 349,
+    "issues_per_1k_stars": 9.69,
+    "created_at": "2024-04-08T03:23:35+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "CherryHQ/cherry-studio",
+    "stars": 35974,
+    "open_issues": 520,
+    "issues_per_1k_stars": 14.45,
+    "created_at": "2024-05-24T01:56:26+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "reworkd/AgentGPT",
+    "stars": 35295,
+    "open_issues": 217,
+    "issues_per_1k_stars": 6.15,
+    "created_at": "2023-04-07T02:29:19+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "daytonaio/daytona",
+    "stars": 34923,
+    "open_issues": 231,
+    "issues_per_1k_stars": 6.61,
+    "created_at": "2024-02-06T08:21:20+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sst/opencode",
+    "stars": 34511,
+    "open_issues": 1614,
+    "issues_per_1k_stars": 46.77,
+    "created_at": "2025-04-30T20:08:00+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "mckaywrigley/chatbot-ui",
+    "stars": 32703,
+    "open_issues": 230,
+    "issues_per_1k_stars": 7.03,
+    "created_at": "2023-03-11T14:53:14+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "danny-avila/LibreChat",
+    "stars": 32065,
+    "open_issues": 347,
+    "issues_per_1k_stars": 10.82,
+    "created_at": "2023-02-12T01:06:52+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "shardeum/shardeum",
+    "stars": 31692,
+    "open_issues": 88,
+    "issues_per_1k_stars": 2.78,
+    "created_at": "2024-04-16T22:37:25+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "continuedev/continue",
+    "stars": 30064,
+    "open_issues": 664,
+    "issues_per_1k_stars": 22.09,
+    "created_at": "2023-05-24T03:39:39+00:00",
+    "era": "post-ai",
+    "language": "TypeScript"
+  },
+  {
+    "name": "Snailclimb/JavaGuide",
+    "stars": 152830,
+    "open_issues": 73,
+    "issues_per_1k_stars": 0.48,
+    "created_at": "2018-05-07T13:27:00+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "stars": 103946,
+    "open_issues": 188,
+    "issues_per_1k_stars": 1.81,
+    "created_at": "2019-09-05T03:01:56+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "iluwatar/java-design-patterns",
+    "stars": 93431,
+    "open_issues": 211,
+    "issues_per_1k_stars": 2.26,
+    "created_at": "2014-08-09T16:45:18+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "macrozheng/mall",
+    "stars": 82261,
+    "open_issues": 14,
+    "issues_per_1k_stars": 0.17,
+    "created_at": "2018-04-04T01:11:44+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "spring-projects/spring-boot",
+    "stars": 79197,
+    "open_issues": 529,
+    "issues_per_1k_stars": 6.68,
+    "created_at": "2012-10-19T15:02:57+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "doocs/advanced-java",
+    "stars": 78562,
+    "open_issues": 2,
+    "issues_per_1k_stars": 0.03,
+    "created_at": "2018-10-06T11:38:30+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "MisterBooo/LeetCodeAnimation",
+    "stars": 76549,
+    "open_issues": 21,
+    "issues_per_1k_stars": 0.27,
+    "created_at": "2018-12-06T08:01:22+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "elastic/elasticsearch",
+    "stars": 75558,
+    "open_issues": 5357,
+    "issues_per_1k_stars": 70.9,
+    "created_at": "2010-02-08T13:20:56+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "kdn251/interviews",
+    "stars": 64702,
+    "open_issues": 119,
+    "issues_per_1k_stars": 1.84,
+    "created_at": "2017-02-14T18:19:25+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "TheAlgorithms/Java",
+    "stars": 64373,
+    "open_issues": 109,
+    "issues_per_1k_stars": 1.69,
+    "created_at": "2016-07-16T10:21:02+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "NationalSecurityAgency/ghidra",
+    "stars": 62393,
+    "open_issues": 1789,
+    "issues_per_1k_stars": 28.67,
+    "created_at": "2019-03-01T03:27:48+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "spring-projects/spring-framework",
+    "stars": 59279,
+    "open_issues": 336,
+    "issues_per_1k_stars": 5.67,
+    "created_at": "2010-12-08T04:04:45+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "google/guava",
+    "stars": 51307,
+    "open_issues": 713,
+    "issues_per_1k_stars": 13.9,
+    "created_at": "2014-05-29T16:23:17+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "ReactiveX/RxJava",
+    "stars": 48459,
+    "open_issues": 15,
+    "issues_per_1k_stars": 0.31,
+    "created_at": "2013-01-08T20:11:48+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "dbeaver/dbeaver",
+    "stars": 47465,
+    "open_issues": 3209,
+    "issues_per_1k_stars": 67.61,
+    "created_at": "2015-10-21T08:26:28+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "termux/termux-app",
+    "stars": 47338,
+    "open_issues": 476,
+    "issues_per_1k_stars": 10.06,
+    "created_at": "2015-10-23T09:42:46+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "skylot/jadx",
+    "stars": 46329,
+    "open_issues": 413,
+    "issues_per_1k_stars": 8.91,
+    "created_at": "2013-03-18T17:08:21+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "jeecgboot/JeecgBoot",
+    "stars": 44513,
+    "open_issues": 48,
+    "issues_per_1k_stars": 1.08,
+    "created_at": "2018-11-26T10:40:00+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "apache/dubbo",
+    "stars": 41608,
+    "open_issues": 914,
+    "issues_per_1k_stars": 21.97,
+    "created_at": "2012-06-19T07:56:02+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "PhilJay/MPAndroidChart",
+    "stars": 38165,
+    "open_issues": 2191,
+    "issues_per_1k_stars": 57.41,
+    "created_at": "2014-04-25T14:29:47+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "halo-dev/halo",
+    "stars": 37355,
+    "open_issues": 310,
+    "issues_per_1k_stars": 8.3,
+    "created_at": "2018-03-21T12:56:52+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "eugenp/tutorials",
+    "stars": 37307,
+    "open_issues": 45,
+    "issues_per_1k_stars": 1.21,
+    "created_at": "2013-04-29T18:26:36+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "alibaba/arthas",
+    "stars": 36867,
+    "open_issues": 455,
+    "issues_per_1k_stars": 12.34,
+    "created_at": "2018-08-29T17:15:57+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "geekxh/hello-algorithm",
+    "stars": 35899,
+    "open_issues": 11,
+    "issues_per_1k_stars": 0.31,
+    "created_at": "2020-05-29T05:47:09+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "TeamNewPipe/NewPipe",
+    "stars": 35778,
+    "open_issues": 1317,
+    "issues_per_1k_stars": 36.81,
+    "created_at": "2015-09-03T23:39:26+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "airbnb/lottie-android",
+    "stars": 35525,
+    "open_issues": 44,
+    "issues_per_1k_stars": 1.24,
+    "created_at": "2016-10-06T22:42:42+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "doocs/leetcode",
+    "stars": 35217,
+    "open_issues": 5,
+    "issues_per_1k_stars": 0.14,
+    "created_at": "2018-09-16T14:03:03+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "bumptech/glide",
+    "stars": 34987,
+    "open_issues": 619,
+    "issues_per_1k_stars": 17.69,
+    "created_at": "2013-07-08T22:52:33+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "netty/netty",
+    "stars": 34610,
+    "open_issues": 607,
+    "issues_per_1k_stars": 17.54,
+    "created_at": "2010-11-09T09:22:21+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "YunaiV/ruoyi-vue-pro",
+    "stars": 34393,
+    "open_issues": 2,
+    "issues_per_1k_stars": 0.06,
+    "created_at": "2021-01-24T03:18:25+00:00",
+    "era": "pre-ai",
+    "language": "Java"
+  },
+  {
+    "name": "krahets/hello-algo",
+    "stars": 119279,
+    "open_issues": 27,
+    "issues_per_1k_stars": 0.23,
+    "created_at": "2022-11-04T11:08:34+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "Stirling-Tools/Stirling-PDF",
+    "stars": 70543,
+    "open_issues": 431,
+    "issues_per_1k_stars": 6.11,
+    "created_at": "2023-01-27T18:22:42+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "conductor-oss/conductor",
+    "stars": 30086,
+    "open_issues": 106,
+    "issues_per_1k_stars": 3.52,
+    "created_at": "2023-12-08T06:06:09+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "ashishps1/awesome-system-design-resources",
+    "stars": 27921,
+    "open_issues": 7,
+    "issues_per_1k_stars": 0.25,
+    "created_at": "2023-10-25T01:50:42+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "CodePhiliaX/Chat2DB",
+    "stars": 24738,
+    "open_issues": 500,
+    "issues_per_1k_stars": 20.21,
+    "created_at": "2023-06-20T14:05:26+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "ashishps1/awesome-low-level-design",
+    "stars": 19810,
+    "open_issues": 47,
+    "issues_per_1k_stars": 2.37,
+    "created_at": "2023-11-17T10:15:12+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "Grasscutters/Grasscutter",
+    "stars": 16710,
+    "open_issues": 148,
+    "issues_per_1k_stars": 8.86,
+    "created_at": "2022-04-17T12:43:46+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "ashishps1/awesome-leetcode-resources",
+    "stars": 14333,
+    "open_issues": 9,
+    "issues_per_1k_stars": 0.63,
+    "created_at": "2023-10-25T01:48:19+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "xpipe-io/xpipe",
+    "stars": 11986,
+    "open_issues": 43,
+    "issues_per_1k_stars": 3.59,
+    "created_at": "2023-01-27T02:25:38+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "jd-opensource/joyagent-jdgenie",
+    "stars": 11165,
+    "open_issues": 189,
+    "issues_per_1k_stars": 16.93,
+    "created_at": "2025-07-16T02:59:53+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "apple/pkl",
+    "stars": 10961,
+    "open_issues": 195,
+    "issues_per_1k_stars": 17.79,
+    "created_at": "2024-01-19T17:28:45+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "xuchengsheng/spring-reading",
+    "stars": 9823,
+    "open_issues": 36,
+    "issues_per_1k_stars": 3.66,
+    "created_at": "2023-09-15T06:42:44+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "langchain4j/langchain4j",
+    "stars": 9789,
+    "open_issues": 636,
+    "issues_per_1k_stars": 64.97,
+    "created_at": "2023-06-20T15:30:29+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "JingMatrix/LSPosed",
+    "stars": 8731,
+    "open_issues": 39,
+    "issues_per_1k_stars": 4.47,
+    "created_at": "2023-07-20T18:03:30+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "AutoMQ/automq",
+    "stars": 8273,
+    "open_issues": 65,
+    "issues_per_1k_stars": 7.86,
+    "created_at": "2023-08-17T07:50:13+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "gunnarmorling/1brc",
+    "stars": 7673,
+    "open_issues": 37,
+    "issues_per_1k_stars": 4.82,
+    "created_at": "2023-12-28T09:13:24+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "spring-projects/spring-ai",
+    "stars": 7286,
+    "open_issues": 1023,
+    "issues_per_1k_stars": 140.41,
+    "created_at": "2023-06-27T18:57:29+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "alibaba/spring-ai-alibaba",
+    "stars": 7251,
+    "open_issues": 302,
+    "issues_per_1k_stars": 41.65,
+    "created_at": "2024-09-09T01:35:50+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "iflytek/astron-agent",
+    "stars": 6886,
+    "open_issues": 30,
+    "issues_per_1k_stars": 4.36,
+    "created_at": "2025-09-19T08:46:01+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "FongMi/TV",
+    "stars": 6866,
+    "open_issues": 0,
+    "issues_per_1k_stars": 0.0,
+    "created_at": "2022-06-22T09:10:23+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "apache/hertzbeat",
+    "stars": 6846,
+    "open_issues": 314,
+    "issues_per_1k_stars": 45.87,
+    "created_at": "2022-02-04T14:48:56+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "LaurieWired/GhidraMCP",
+    "stars": 6599,
+    "open_issues": 49,
+    "issues_per_1k_stars": 7.43,
+    "created_at": "2025-03-23T05:36:55+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "booklore-app/booklore",
+    "stars": 6262,
+    "open_issues": 281,
+    "issues_per_1k_stars": 44.87,
+    "created_at": "2024-12-13T19:54:00+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "freeok/so-novel",
+    "stars": 5655,
+    "open_issues": 14,
+    "issues_per_1k_stars": 2.48,
+    "created_at": "2022-05-23T15:49:36+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "loks666/get_jobs",
+    "stars": 5366,
+    "open_issues": 0,
+    "issues_per_1k_stars": 0.0,
+    "created_at": "2024-03-07T21:34:58+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "apache/fesod",
+    "stars": 5365,
+    "open_issues": 115,
+    "issues_per_1k_stars": 21.44,
+    "created_at": "2024-10-05T11:42:50+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "cinit/QAuxiliary",
+    "stars": 5340,
+    "open_issues": 249,
+    "issues_per_1k_stars": 46.63,
+    "created_at": "2022-01-29T06:12:36+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "PBH-BTN/PeerBanHelper",
+    "stars": 5337,
+    "open_issues": 20,
+    "issues_per_1k_stars": 3.75,
+    "created_at": "2024-02-07T14:35:16+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "novicezk/midjourney-proxy",
+    "stars": 5175,
+    "open_issues": 170,
+    "issues_per_1k_stars": 32.85,
+    "created_at": "2023-04-24T13:43:45+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "ReVanced/revanced-patches",
+    "stars": 4968,
+    "open_issues": 335,
+    "issues_per_1k_stars": 67.43,
+    "created_at": "2023-12-14T01:25:17+00:00",
+    "era": "post-ai",
+    "language": "Java"
+  },
+  {
+    "name": "avelino/awesome-go",
+    "stars": 158849,
+    "open_issues": 135,
+    "issues_per_1k_stars": 0.85,
+    "created_at": "2014-07-06T13:42:15+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "golang/go",
+    "stars": 131065,
+    "open_issues": 9656,
+    "issues_per_1k_stars": 73.67,
+    "created_at": "2014-08-19T04:33:40+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "kubernetes/kubernetes",
+    "stars": 118898,
+    "open_issues": 2561,
+    "issues_per_1k_stars": 21.54,
+    "created_at": "2014-06-06T22:56:04+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "fatedier/frp",
+    "stars": 101207,
+    "open_issues": 46,
+    "issues_per_1k_stars": 0.45,
+    "created_at": "2015-12-21T15:24:59+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "gin-gonic/gin",
+    "stars": 87203,
+    "open_issues": 869,
+    "issues_per_1k_stars": 9.97,
+    "created_at": "2014-06-16T23:57:25+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "gohugoio/hugo",
+    "stars": 85101,
+    "open_issues": 372,
+    "issues_per_1k_stars": 4.37,
+    "created_at": "2013-07-04T15:26:26+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "syncthing/syncthing",
+    "stars": 77945,
+    "open_issues": 371,
+    "issues_per_1k_stars": 4.76,
+    "created_at": "2013-11-26T09:48:21+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "junegunn/fzf",
+    "stars": 75437,
+    "open_issues": 309,
+    "issues_per_1k_stars": 4.1,
+    "created_at": "2013-10-23T16:04:23+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "moby/moby",
+    "stars": 71156,
+    "open_issues": 3745,
+    "issues_per_1k_stars": 52.63,
+    "created_at": "2013-01-18T18:10:57+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "jesseduffield/lazygit",
+    "stars": 68713,
+    "open_issues": 819,
+    "issues_per_1k_stars": 11.92,
+    "created_at": "2018-05-19T00:53:06+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "caddyserver/caddy",
+    "stars": 68223,
+    "open_issues": 241,
+    "issues_per_1k_stars": 3.53,
+    "created_at": "2015-01-13T19:45:03+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "nektos/act",
+    "stars": 67229,
+    "open_issues": 275,
+    "issues_per_1k_stars": 4.09,
+    "created_at": "2019-01-02T19:53:43+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "prometheus/prometheus",
+    "stars": 61526,
+    "open_issues": 753,
+    "issues_per_1k_stars": 12.24,
+    "created_at": "2012-11-24T11:14:12+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "traefik/traefik",
+    "stars": 59806,
+    "open_issues": 708,
+    "issues_per_1k_stars": 11.84,
+    "created_at": "2015-09-13T19:04:02+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "minio/minio",
+    "stars": 58734,
+    "open_issues": 74,
+    "issues_per_1k_stars": 1.26,
+    "created_at": "2015-01-14T19:23:58+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "FiloSottile/mkcert",
+    "stars": 57285,
+    "open_issues": 162,
+    "issues_per_1k_stars": 2.83,
+    "created_at": "2018-06-25T05:33:03+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "rclone/rclone",
+    "stars": 53802,
+    "open_issues": 1094,
+    "issues_per_1k_stars": 20.33,
+    "created_at": "2014-03-16T16:19:57+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "wagoodman/dive",
+    "stars": 52719,
+    "open_issues": 184,
+    "issues_per_1k_stars": 3.49,
+    "created_at": "2018-05-13T15:44:01+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "go-gitea/gitea",
+    "stars": 52244,
+    "open_issues": 2885,
+    "issues_per_1k_stars": 55.22,
+    "created_at": "2016-11-01T02:13:26+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "etcd-io/etcd",
+    "stars": 50885,
+    "open_issues": 215,
+    "issues_per_1k_stars": 4.23,
+    "created_at": "2013-07-06T21:57:21+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "ethereum/go-ethereum",
+    "stars": 50388,
+    "open_issues": 376,
+    "issues_per_1k_stars": 7.46,
+    "created_at": "2013-12-26T13:05:46+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "AlistGo/alist",
+    "stars": 48593,
+    "open_issues": 565,
+    "issues_per_1k_stars": 11.63,
+    "created_at": "2020-12-23T17:40:29+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "jesseduffield/lazydocker",
+    "stars": 48097,
+    "open_issues": 243,
+    "issues_per_1k_stars": 5.05,
+    "created_at": "2019-05-18T08:53:50+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "gogs/gogs",
+    "stars": 47265,
+    "open_issues": 993,
+    "issues_per_1k_stars": 21.01,
+    "created_at": "2014-02-12T01:57:08+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "hashicorp/terraform",
+    "stars": 47174,
+    "open_issues": 1908,
+    "issues_per_1k_stars": 40.45,
+    "created_at": "2014-03-13T22:25:48+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "v2ray/v2ray-core",
+    "stars": 46713,
+    "open_issues": 7,
+    "issues_per_1k_stars": 0.15,
+    "created_at": "2015-09-04T11:42:53+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "usememos/memos",
+    "stars": 46607,
+    "open_issues": 39,
+    "issues_per_1k_stars": 0.84,
+    "created_at": "2021-12-08T15:30:18+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "astaxie/build-web-application-with-golang",
+    "stars": 44088,
+    "open_issues": 134,
+    "issues_per_1k_stars": 3.04,
+    "created_at": "2012-08-02T11:49:35+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "coreybutler/nvm-windows",
+    "stars": 43876,
+    "open_issues": 98,
+    "issues_per_1k_stars": 2.23,
+    "created_at": "2014-09-20T16:37:28+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "spf13/cobra",
+    "stars": 42518,
+    "open_issues": 338,
+    "issues_per_1k_stars": 7.95,
+    "created_at": "2013-09-03T20:40:26+00:00",
+    "era": "pre-ai",
+    "language": "Go"
+  },
+  {
+    "name": "ollama/ollama",
+    "stars": 156832,
+    "open_issues": 2313,
+    "issues_per_1k_stars": 14.75,
+    "created_at": "2023-06-26T19:39:32+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "base/node",
+    "stars": 68632,
+    "open_issues": 65,
+    "issues_per_1k_stars": 0.95,
+    "created_at": "2023-02-01T13:55:02+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "pocketbase/pocketbase",
+    "stars": 53717,
+    "open_issues": 19,
+    "issues_per_1k_stars": 0.35,
+    "created_at": "2022-07-05T06:06:21+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "mudler/LocalAI",
+    "stars": 39476,
+    "open_issues": 237,
+    "issues_per_1k_stars": 6.0,
+    "created_at": "2023-03-18T22:58:02+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "1Panel-dev/1Panel",
+    "stars": 32190,
+    "open_issues": 335,
+    "issues_per_1k_stars": 10.41,
+    "created_at": "2022-07-19T15:44:52+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "glanceapp/glance",
+    "stars": 29981,
+    "open_issues": 247,
+    "issues_per_1k_stars": 8.24,
+    "created_at": "2024-04-27T18:55:38+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "SagerNet/sing-box",
+    "stars": 28468,
+    "open_issues": 199,
+    "issues_per_1k_stars": 6.99,
+    "created_at": "2022-06-30T13:27:22+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "opentofu/opentofu",
+    "stars": 27216,
+    "open_issues": 339,
+    "issues_per_1k_stars": 12.46,
+    "created_at": "2023-08-16T20:01:36+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "github/github-mcp-server",
+    "stars": 24831,
+    "open_issues": 239,
+    "issues_per_1k_stars": 9.63,
+    "created_at": "2025-03-04T16:42:04+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "microsoft/typescript-go",
+    "stars": 22962,
+    "open_issues": 206,
+    "issues_per_1k_stars": 8.97,
+    "created_at": "2024-09-19T20:25:12+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "terrastruct/d2",
+    "stars": 22578,
+    "open_issues": 471,
+    "issues_per_1k_stars": 20.86,
+    "created_at": "2022-09-05T23:12:27+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "charmbracelet/gum",
+    "stars": 21856,
+    "open_issues": 138,
+    "issues_per_1k_stars": 6.31,
+    "created_at": "2022-06-10T22:09:42+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "samber/lo",
+    "stars": 20693,
+    "open_issues": 202,
+    "issues_per_1k_stars": 9.76,
+    "created_at": "2022-03-02T12:48:45+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "chaitin/SafeLine",
+    "stars": 19361,
+    "open_issues": 48,
+    "issues_per_1k_stars": 2.48,
+    "created_at": "2023-04-12T11:30:14+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "OpenListTeam/OpenList",
+    "stars": 18288,
+    "open_issues": 143,
+    "issues_per_1k_stars": 7.82,
+    "created_at": "2025-06-11T23:35:02+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "charmbracelet/vhs",
+    "stars": 17872,
+    "open_issues": 120,
+    "issues_per_1k_stars": 6.71,
+    "created_at": "2022-07-19T14:28:36+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "henrygd/beszel",
+    "stars": 17223,
+    "open_issues": 334,
+    "issues_per_1k_stars": 19.39,
+    "created_at": "2024-07-07T21:36:28+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "yorukot/superfile",
+    "stars": 15897,
+    "open_issues": 178,
+    "issues_per_1k_stars": 11.2,
+    "created_at": "2024-03-19T15:49:52+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "charmbracelet/crush",
+    "stars": 15420,
+    "open_issues": 322,
+    "issues_per_1k_stars": 20.88,
+    "created_at": "2025-05-21T12:14:57+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "apache/answer",
+    "stars": 15152,
+    "open_issues": 93,
+    "issues_per_1k_stars": 6.14,
+    "created_at": "2022-09-29T05:16:19+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "gofr-dev/gofr",
+    "stars": 14969,
+    "open_issues": 95,
+    "issues_per_1k_stars": 6.35,
+    "created_at": "2023-10-24T10:14:48+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "TecharoHQ/anubis",
+    "stars": 14862,
+    "open_issues": 217,
+    "issues_per_1k_stars": 14.6,
+    "created_at": "2025-03-17T17:35:28+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "plandex-ai/plandex",
+    "stars": 14699,
+    "open_issues": 34,
+    "issues_per_1k_stars": 2.31,
+    "created_at": "2023-10-24T22:11:43+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "loft-sh/devpod",
+    "stars": 14290,
+    "open_issues": 100,
+    "issues_per_1k_stars": 7.0,
+    "created_at": "2023-01-24T12:59:48+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "wavetermdev/waveterm",
+    "stars": 14265,
+    "open_issues": 372,
+    "issues_per_1k_stars": 26.08,
+    "created_at": "2022-06-08T00:26:00+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "keploy/keploy",
+    "stars": 13444,
+    "open_issues": 354,
+    "issues_per_1k_stars": 26.33,
+    "created_at": "2022-01-19T10:40:31+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "aaPanel/BillionMail",
+    "stars": 12336,
+    "open_issues": 186,
+    "issues_per_1k_stars": 15.08,
+    "created_at": "2025-02-14T06:25:45+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "putyy/res-downloader",
+    "stars": 12259,
+    "open_issues": 42,
+    "issues_per_1k_stars": 3.43,
+    "created_at": "2023-09-01T08:03:47+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "googleapis/genai-toolbox",
+    "stars": 11618,
+    "open_issues": 181,
+    "issues_per_1k_stars": 15.58,
+    "created_at": "2024-06-07T20:52:54+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  },
+  {
+    "name": "apernet/OpenGFW",
+    "stars": 11071,
+    "open_issues": 35,
+    "issues_per_1k_stars": 3.16,
+    "created_at": "2023-12-13T06:37:41+00:00",
+    "era": "post-ai",
+    "language": "Go"
+  }
+]
